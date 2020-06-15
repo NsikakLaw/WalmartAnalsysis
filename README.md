@@ -1,2 +1,2 @@
 # Walmart Analysis
-R project of the Walmart Sales Analysis
+Predicting future sales of the Walmart Stores based on the dataset from Kaggle
